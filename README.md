@@ -14,7 +14,7 @@
 * Método de ataque: `Credential Harvester Attack Method `
 * Método de ataque: `Web Templates`
 * Obtendo o endereço da máquina: `ifconfig`
-* Selecionando template: ´Google´
+* Selecionando template: `Google`
 
 
 Resutados:
