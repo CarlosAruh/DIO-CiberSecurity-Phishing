@@ -18,4 +18,4 @@
 
 
 Resutados:
-!(main/password.png)
+![](main/password.png)
